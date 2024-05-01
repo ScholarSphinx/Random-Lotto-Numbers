@@ -1,0 +1,10 @@
+C:\Users\calvi\source\repos\Random Lottery Numbers\bin\Debug\Random Lottery Numbers.exe.config
+C:\Users\calvi\source\repos\Random Lottery Numbers\bin\Debug\Random Lottery Numbers.exe
+C:\Users\calvi\source\repos\Random Lottery Numbers\bin\Debug\Random Lottery Numbers.pdb
+C:\Users\calvi\source\repos\Random Lottery Numbers\obj\Debug\Random Lottery Numbers.csproj.AssemblyReference.cache
+C:\Users\calvi\source\repos\Random Lottery Numbers\obj\Debug\Random_Lottery_Numbers.Form1.resources
+C:\Users\calvi\source\repos\Random Lottery Numbers\obj\Debug\Random_Lottery_Numbers.Properties.Resources.resources
+C:\Users\calvi\source\repos\Random Lottery Numbers\obj\Debug\Random Lottery Numbers.csproj.GenerateResource.cache
+C:\Users\calvi\source\repos\Random Lottery Numbers\obj\Debug\Random Lottery Numbers.csproj.CoreCompileInputs.cache
+C:\Users\calvi\source\repos\Random Lottery Numbers\obj\Debug\Random Lottery Numbers.exe
+C:\Users\calvi\source\repos\Random Lottery Numbers\obj\Debug\Random Lottery Numbers.pdb
